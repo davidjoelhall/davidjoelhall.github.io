@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Lynda and Jekyll”
+title:  Lynda and Jekyll
 date:   2017-07-02 19:40:54 -0700
 categories: apple, iOS
 ---

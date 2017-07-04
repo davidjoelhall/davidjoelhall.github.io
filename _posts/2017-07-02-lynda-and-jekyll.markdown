@@ -6,4 +6,6 @@ categories: apple, iOS
 ---
 With the recent demise of Tumblr and the sad state of Medium… if I’m looking for a amateur blogging platform, where am I to turn to? In comes GitHub Pages and Jekyll. However, what do I know about either of those things? Not much. I took to Lynda and learned the basics. 
 
+![Finder image]({{site.baseurl}}/images/lynda_and_jekyll_finder_image.jpg)
+
 This site is now powered by Jekyll, hosted by GitHub Pages, and domain provided by Hover. I’m on section 2 of 7 of the Lynda course. Learning in public, here goes nothing. 

@@ -24,4 +24,4 @@ The downloading of all your photos is where the process can take some time depen
 
 For what it’s worth, Apple’s [support documentation](https://support.apple.com/en-us/HT204264) asks, “Do I need a Backup?” which then answers that question by saying:
 
->iCloud Photo Library stores all of your original photos and videos in iCloud, but we always recommend you keep back up copies of your Library. You can download your photos and videos from [https://icloud.com](iCloud) to your computer and store them as a separate library, [https://support.apple.com/kb/HT201302](transfer them to another computer with Image Capture or Photos), or store them on a separate drive.
+>iCloud Photo Library stores all of your original photos and videos in iCloud, but we always recommend you keep back up copies of your Library. You can download your photos and videos from [iCloud](https://icloud.com) to your computer and store them as a separate library, [transfer them to another computer with Image Capture or Photos](https://support.apple.com/kb/HT201302), or store them on a separate drive.

@@ -30,6 +30,6 @@ This tells Todoist I want to see tasks that are NOT in the "Personal" project or
 
 > ! == NOT
 
-> Prefixing a project with ## with include all sub-projects
+> Prefixing a project with ## will include all sub-projects
 
 Don't get me wrong, this is not a perfect service. There are numerous little idiosyncrasies (most of which are thanks to this being a web service first instead of native app first) that bug the crap out of me. This filtering setup, so far, is not one of them. 

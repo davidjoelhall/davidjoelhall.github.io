@@ -10,7 +10,7 @@ I already have SONOS equipment sprinkled throughout the home, so the PLAYBAR was
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/VIZIO">@vizio</a> I&#39;m planning on getting a <a href="https://twitter.com/Sonos">@sonos</a> Playbar to pair with my P65-C1 TV. Anything I need to be aware of?</p>&mdash; David Hall (@davidjoelhall) <a href="https://twitter.com/davidjoelhall/status/824021587204526081">January 24, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I knew that SONOS did not support DTS (Dedicated to Sound), only Dolby Digital. My TV (according to the support manual ([PDF](https://cdn.vizio.com/documents/p50c1/um-p50c1.pdf)) supports DTS, not Dolby Digital. Not a problem, I thought… I'll send the audio *directly* from the source, my Apple TV! Again, I was let down… the latest [Apple TV](http://www.apple.com/apple-tv/specs/)removed the optical audio port in favor of … nothing, nothing replaced it.
+I knew that SONOS did not support DTS (Dedicated to Sound), only Dolby Digital. My TV (according to the support manual ([PDF](https://cdn.vizio.com/documents/p50c1/um-p50c1.pdf)) supports DTS, not Dolby Digital. Not a problem, I thought… I'll send the audio *directly* from the source, my Apple TV! Again, I was let down… the latest [Apple TV](http://www.apple.com/apple-tv/specs/) removed the optical audio port in favor of … nothing, nothing replaced it.
 
 This means that I cannot route, from the Apple TV, audio to the PLAYBAR and video to the TV. If I route the audio from the TV to the PLAYBAR, I lose out anything over stereo — which is why I'd be getting directly from the TV without the PLAYBAR.
 

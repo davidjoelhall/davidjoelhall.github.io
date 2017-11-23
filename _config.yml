@@ -16,7 +16,7 @@
 title: Thoughts Expanded
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-I'm David Hall. This is a place about the stuff I find. This is a work in progress. 
+ I'm David Hall. This is a place about the stuff I find. This is a work in progress. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidjoelhall

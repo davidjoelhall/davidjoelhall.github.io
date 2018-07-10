@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Flags"
-date:   2018-07-04T16:13:48-07:00
-categories: Flags learning 
----
-[This is a flag](http://www.usflag.org/flagpatch.html)
-
-Next line 

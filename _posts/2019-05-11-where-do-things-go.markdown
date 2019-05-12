@@ -28,7 +28,7 @@ The end-game for these _things_, generally speaking, are:
 - Memories - Day One
 - Pictures - Photos
 
-Here is where things get a bit messy. All pictures taken end up in Photos as they're all stored to the Camera Roll. However, some photos are for a task, some are pieces of reference information, some area sparks of an idea, and some are milestones. 
+Here is where things get a bit messy. All pictures taken end up in Photos as they're all stored to the Camera Roll. However, some photos are for a task, some are pieces of reference information, some are sparks of an idea, and some are milestones. 
 
 How do the streams cross? 
 

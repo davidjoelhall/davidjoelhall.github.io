@@ -26,7 +26,7 @@ The end-game for these _things_, generally speaking, are:
 - Notes - 1Writer (plain text notes stored in Dropbox)
 - Ideas - 1Writer ...
 - Memories - Day One
-Pictures - Photos
+- Pictures - Photos
 
 Here is where things get a bit messy. All pictures taken end up in Photos as they're all stored to the Camera Roll. However, some photos are for a task, some are pieces of reference information, some area sparks of an idea, and some are milestones. 
 

@@ -12,7 +12,7 @@ When I write, it generally ends up in the following camps:
 - memories
 - pictures 
 
-Each of these are a potentially very different _things_. However, it's safe to expect them to fall into these ballparks:
+Each of these are potentially very different _things_. However, it's safe to expect them to fall into these ballparks:
 
 Tasks - a to-do of sorts, something that needs to be done
 Notes - a reference or how-to for my later self 

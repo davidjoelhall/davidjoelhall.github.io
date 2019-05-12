@@ -14,18 +14,18 @@ When I write, it generally ends up in the following camps:
 
 Each of these are potentially very different _things_. However, it's safe to expect them to fall into these ballparks:
 
-Tasks - a to-do of sorts, something that needs to be done
-Notes - a reference or how-to for my later self 
-Ideas - something I may want to write about or something I may want to do 
-Memories - milestones in my life and of the people/landscape around me 
-Pictures - day-to-day photos, could be associated with any of the above 
+- Tasks - a to-do of sorts, something that needs to be done
+- Notes - a reference or how-to for my later self 
+- Ideas - something I may want to write about or something I may want to do 
+- Memories - milestones in my life and of the people/landscape around me 
+- Pictures - day-to-day photos, could be associated with any of the above 
 
 The end-game for these _things_, generally speaking, are: 
 
-Tasks - OmniFocus
-Notes - 1Writer (plain text notes stored in Dropbox)
-Ideas - 1Writer ...
-Memories - Day One
+- Tasks - OmniFocus
+- Notes - 1Writer (plain text notes stored in Dropbox)
+- Ideas - 1Writer ...
+- Memories - Day One
 Pictures - Photos
 
 Here is where things get a bit messy. All pictures taken end up in Photos as they're all stored to the Camera Roll. However, some photos are for a task, some are pieces of reference information, some area sparks of an idea, and some are milestones. 

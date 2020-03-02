@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Converting Text to CSV Using Shortcuts and Numbers"
-date:   2019-05-28T11:56:00-08:00
+date:   2020-03-01T18:00:00-08:00
 categories: every day carry, edc
 ---
 ‪That was a fun adventure... now that it's done, I can share the journey. ‬

@@ -23,6 +23,6 @@ Today, I had the revelation when I start a timer... if I select "Projects:" to:
 - set text to "Projects: <OmniFocus Project Name>"
 - start timer with description as above text
 
-![OmniFocus Projects Toggl](site.baseURL/images/2020-06-08--timer-project-omnifocus.png)
+![OmniFocus Projects Toggl](/images/2020-06-08--timer-project-omnifocus.png)
 
 This ensures that I'm always using the same name in Toggl as I am in OmniFocus as the project name is pulled _from_ OmniFocus. 

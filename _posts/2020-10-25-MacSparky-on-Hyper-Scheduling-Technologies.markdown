@@ -2,7 +2,7 @@
 layout: post
 title: MacSparky on Hyper-Scheduling Technologies
 date: 2020-10-25
-categories: separated, by commas
+categories: shortcuts, scheduling
 ---
 David Sparks, better known on the Internet as MacSparky, on reviewing his Hyper-Scheduling for the week: 
 

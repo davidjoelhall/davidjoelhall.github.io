@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacSparky on Hyper-Scheduling Technologies
+title: MacSparky on Hyper-Scheduling Technology
 date: 2020-10-25
 categories: shortcuts, scheduling
 ---

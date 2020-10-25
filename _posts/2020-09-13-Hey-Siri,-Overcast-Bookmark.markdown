@@ -6,7 +6,7 @@ categories: separated, by commas
 ---
 One of my favorite Shortcuts recently comes in handy when listening to a podcast and something catches my interest to note something for my future self or for follow-up:
 
-<img>
+
 
 This Shortcut will:
 

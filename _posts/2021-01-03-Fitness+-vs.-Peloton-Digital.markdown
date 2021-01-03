@@ -4,7 +4,7 @@ title: Fitness+ vs. Peloton Digital
 date: 2021-01-03
 categories: apple, fitness, peloton
 ---
-Yes, I'm not a _yogi_, nor do I play one on TV. However, I've had some issues with my back and I figure yoga is likely the best way for me to strengthen my core and back with low impact and relatively slow movements. This seemed like a good time to test out Peloton's digital app and Apple's entrance to the at-home fitness world, Fitness+. 
+No, I'm not a _yogi_, nor do I play one on TV. However, I've had some issues with my back and I figure yoga is likely the best way for me to strengthen my core and back with low impact and relatively slow movements. This seemed like a good time to test out Peloton's digital app and Apple's entrance to the at-home fitness world, Fitness+. 
 
 What I've done is used Fitness+, for a few days and compared that to Peloton's offering on their app for a couple days. 
 

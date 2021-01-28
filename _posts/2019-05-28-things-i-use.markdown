@@ -19,9 +19,7 @@ Thankfully, I don't have many keys nowadays. House, mailbox, work, and car. All 
 
 ### Phone
 
-iPhone XS. For funsies, here's my home screen as it's setup today:
-
-<image>
+iPhone XS. 
 
 ### Wallet
 
@@ -44,28 +42,3 @@ AirPods. I believe that this is the best product that Apple has shipped since iP
 - case that doubles as a charger
 - 90 minute talk time on each _pod_
 - can use each _pod_ independently, or together in stereo
-
-## Honorable Mentions
-
-There are a few things that I carry when going to work or to places for a long (3+ hours), that aren't in my "personal" EDC if you will: 
-
-- knife
-- tablet
-- books/magazines
-- games
-
-### knife
-
-Text
-
-### tablet
-
-Text
-
-### books/magazines
-
-Text
-
-### games
-
-Text

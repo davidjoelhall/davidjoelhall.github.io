@@ -2,7 +2,7 @@
 layout: post
 title: Hey Siri, Create A Book Note
 date: 2021-01-30
-categories: separated, by commas
+categories: shortcuts, audiobooks
 ---
 I enjoy listening to books, there are books that I'll re-read on Kindle depending on the nature of the book, but I mostly listen to books as I have a commute and I drive a lot. When I'm listening to a book, it's difficult to take a note on something I heard that I found interesting. To my knowledge, none of the developers behind the "big" Audiobook apps (Amazon Kindle, Apple Books, Libby by OverDrive) support Shortcuts... so I put something together myself. Here's the [link to the Shortcut](https://www.icloud.com/shortcuts/d8b09644536e443e8bbbdd3f150b657b) if you're interested! Now here's how it works...
 

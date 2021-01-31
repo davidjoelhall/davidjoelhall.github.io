@@ -22,7 +22,7 @@ Siri responds, with a list of books...
 
 Depending on if you're at a stop or driving, you can either tap or speak your selection:
 
-> choose from the list or say "something else"
+> Choose from the list or say "something else"
 
 If you say "something else", Siri will then ask for the name of the book...
 

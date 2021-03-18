@@ -9,8 +9,8 @@ These are the pieces of equipment that I've seen good performance for dollar in 
 Networking Equipment:
 
 - [Zyxel VPN100](https://amzn.to/3vmTQ0K)
-- [TP-Link 48 port gigabit PoE switch (T1600G-52PS)](https://amzn.to/2OBe6ez)
 - [TP-Link 24 Port gigabit PoE switch (T1600G-28PS)](https://amzn.to/3vsMetM)
+- [TP-Link 48 port gigabit PoE switch (T1600G-52PS)](https://amzn.to/2OBe6ez)
 - [UniFi AC Pro](https://amzn.to/2Q7Lfz0)
 
 Workstations:
@@ -24,7 +24,7 @@ Graphics:
 Monitors:
 
 - [BenQ 24 Inch IPS Monitor (GW2480)](https://amzn.to/2PXs3DR)
-- [BenQ 24 Inch IPS Monitor (GW2780)](https://amzn.to/3qTQsHc)
+- [BenQ 27 Inch IPS Monitor (GW2780)](https://amzn.to/3qTQsHc)
 
 Printers:
 

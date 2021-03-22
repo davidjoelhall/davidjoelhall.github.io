@@ -17,6 +17,10 @@ Workstations:
 
 - [Dell OptiPlex 3080 SFF](https://amzn.to/3bNyYrR)
 
+Laptop Dock:
+
+- [Dell WD19TB](https://amzn.to/3sbfbsd)
+
 Graphics:
 
 - [AMD RADEON PRO WX 2100 2GB GDDR5 PCIE](https://amzn.to/38FFKxO)

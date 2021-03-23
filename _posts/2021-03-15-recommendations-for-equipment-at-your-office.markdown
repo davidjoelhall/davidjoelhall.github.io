@@ -31,6 +31,9 @@ Monitors:
 - [BenQ 24 Inch IPS Monitor (GW2480)](https://amzn.to/2PXs3DR)
 - [BenQ 27 Inch IPS Monitor (GW2780)](https://amzn.to/3qTQsHc)
 
+Docks:
+- [Microsoft Surface Dock 2](https://amzn.to/3186hzE)
+
 Printers:
 
 - [HP Color LaserJet Pro Multifunction M479fdw Wireless Laser Printer](https://amzn.to/38FFVsY)

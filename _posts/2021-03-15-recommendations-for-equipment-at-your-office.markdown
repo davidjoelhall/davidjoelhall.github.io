@@ -11,6 +11,7 @@ Networking Equipment:
 - [Zyxel VPN100](https://amzn.to/3vmTQ0K)
 - [TP-Link 24 Port gigabit PoE switch (T1600G-28PS)](https://amzn.to/3vsMetM)
 - [TP-Link 48 port gigabit PoE switch (T1600G-52PS)](https://amzn.to/2OBe6ez)
+- [UniFi Switch PoE 24 US-24-250W 24-Port Managed PoE+ Gigabit Switch with SFP](https://amzn.to/395Z1sE)
 - [UniFi AC Pro](https://amzn.to/2Q7Lfz0)
 
 Workstations:

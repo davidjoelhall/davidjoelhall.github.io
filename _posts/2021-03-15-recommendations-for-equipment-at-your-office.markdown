@@ -43,3 +43,4 @@ Scanners:
 
 - [Epson WorkForce ES-400](https://amzn.to/38JL5UM)
 - [Fujitsu ScanSnap iX1500](https://amzn.to/2OBe6ez)
+- [Epson DS-320 Mobile Scanner](https://amzn.to/3vXEAYs)

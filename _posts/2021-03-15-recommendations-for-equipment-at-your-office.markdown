@@ -28,6 +28,7 @@ Graphics:
 
 Monitors:
 
+- [BenQ 22 Inch IPS Monitor(GW2283)](https://amzn.to/3t0PXx7)
 - [BenQ 24 Inch IPS Monitor (GW2480)](https://amzn.to/2PXs3DR)
 - [BenQ 27 Inch IPS Monitor (GW2780)](https://amzn.to/3qTQsHc)
 

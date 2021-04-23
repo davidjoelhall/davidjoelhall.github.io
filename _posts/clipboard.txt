@@ -1,7 +1,0 @@
----
-layout: post
-title: Hey Siri, Create A Book Note
-date: 2021-01-30
-categories: shortcuts, audiobooks
----
-I enjoy

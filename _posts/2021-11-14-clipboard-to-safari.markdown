@@ -4,7 +4,6 @@ title: Clipboard to Safari, the easy way
 date: 2021-11-14
 categories: separated, by commas
 ---
-Open Clipboard in Safari
 I find that opening URLs or searching in Safari takes too many taps on iOS. So, I created a [Shortcut](https://www.icloud.com/shortcuts/98eebd835aed4803b6af0b3975fd7257). 
 
 This Shortcut does the following:

@@ -8,7 +8,7 @@ categories: ipados, macos, daily driver, apple silicon
 
 Over the years, I've used both operating systems (macOS and iPadOS) regularly. I've gone through stints that macOS was my daily "computer" ([what's a computer](https://youtu.be/pI-iJcC9JUc)) and I'm currently using an iPad Pro (12.9", model year 2018) as my daily computer ([how to use a computer](https://youtu.be/w0P0FQ770dE)). Not if, but when Apple releases their Apple Silicon based Mac laptops, I'm going to take a hard look at them and depending on the features, jump on one. Otherwise, I'll likely pickup a refurb 13" MBP. 
 
-## Why switch from iPadOS fro macOS? 
+## Why switch from iPadOS to macOS? 
 
 There are multiple apps that I use on iPadOS that just weren't designed to be used there as their main place of use, things like:
 

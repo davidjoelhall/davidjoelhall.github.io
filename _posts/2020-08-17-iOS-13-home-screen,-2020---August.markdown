@@ -18,6 +18,6 @@ The apps not mentioned above that are on my home screen are apps from Apple (or 
 - Photos
 - Safari
 
-I use every app on a daily basis and they're core to my say-to-day workflow. 
+I use every app on a daily basis and they're core to my day-to-day workflow. 
 
 ![home screen](/images/2020-08_-_home_screen.png)

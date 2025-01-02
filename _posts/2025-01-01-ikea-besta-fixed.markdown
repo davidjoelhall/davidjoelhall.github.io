@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IKEA BESTA: Fixed
+title: Fixed the IKEA BESTA Cabinet Frame
 date: 2025-01-01
 categories: separated, by commas
 ---

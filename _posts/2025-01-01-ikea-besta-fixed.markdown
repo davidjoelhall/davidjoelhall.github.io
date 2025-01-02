@@ -1,0 +1,27 @@
+---
+layout: post
+title: IKEA BESTA: Fixed
+date: 2025-01-01
+categories: separated, by commas
+---
+Sometimes, IKEA furniture goes together just like the instructions say and sometimes you have concerns. This time, I had concerns. 
+
+We have a relatively small kitchen and wanted to see about getting some additional storage space and heck, while we're at it, maybe even setup a coffee station. We're going with the [IKEA BESTÅ Frame](https://www.ikea.com/us/en/p/besta-frame-white-00245842/), four (4) total shelves, and a couple of doors (one on top and one on bottom). For giggles, here is the [manual](https://www.ikea.com/us/en/assembly_instructions/besta-frame-white__AA-1272094-9-100.pdf) (always RTFM) for install, I referred to it throughout this process. 
+
+I ended up rebuilding this cabinet to make sure I wasn't missing a step somewhere... 
+
+[narrator: I didn't]
+
+Before attaching the cabinet to the wall, I checked to see how stable the cabinet was... it seemed to wobble a dangerous amount -- to an extreme that I wasn't confident that attaching the cabinet to the wall would provide a resulting cabinet without the wobble. I did some googling and found a [reddit post](https://www.reddit.com/r/IKEA/comments/1apk2ds/besta_large_cabinet_is_so_wobbly_its_ridiculous/) that talked about something similar (the video was removed), but many comments talk about the wobbliness getting resolved when the cabinet is mounted to the wall. Sure, I get it... but I want to make sure here (can't believe everything you read on the Internet, right?). On page 18 of the manual, it talks about bowing of the cabinet due to not having any shelving... we don't have that issues. The other thing I need to figure out is how to get this cabinet closer to the wall to use the included stand-offs... we happen to have baseboards _and_ quarter round, so it makes furniture stand-off from the wall and unusually high amount. 
+
+I ended up finding [this](x-devonthink-item://6FB9C20B-ADBC-4798-9D43-4A1000706BCC) video from [k-nemo](https://www.youtube.com/@k-nemo) that had the same issue and, as luck would have it, it worked for me. I did not have a hole saw attachment, but I do have... a dremel, a steady hand, and a lack of restraint for doing things that aren't safe. This was in an effort to get the cabinet closer to the wall, like on page 16 of the manual. 
+
+It's worth mentioning that I tried using _fancy_ [legs](https://www.ikea.com/us/en/p/mejarp-leg-birch-70489916/) from IKEA that have an adjustment on the bottom, but the adjustment on the bottom did not yield a high enough gap between the bottom of the wood on the legs and the top of the quarter round moulding... so opted to go with k-nemo's approach. 
+
+Now... to address the cabinet wobbling. A new player enters the frame: Home Depot. I stopped by Home Depot to buy 2 of these 2-pack [2 in. Zinc-Plated Heavy-Duty Corner Braces](https://www.homedepot.com/p/Everbilt-2-in-Zinc-Plated-Heavy-Duty-Corner-Brace-2-Pack-15442/202034088?source=shoppingads&locale=en-US&pla&mtc=SHOPPING-BF-CDP-GGL-D25H-025_004_BUILDER_HARD-NA-Multi-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NA-BuildersHardware_PRIOCONTROL&cm_mmc=SHOPPING-BF-CDP-GGL-D25H-025_004_BUILDER_HARD-NA-Multi-NA-PMAX-NA-NA-NA-NA-NBR-NA-NA-NA-BuildersHardware_PRIOCONTROL-21266234112--&gad_source=1&gbraid=0AAAAADq61UdURpQYB_JNRQJzukDGyzoWu&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIbcnyANwlX6ZtHo-8mjYbs7OyM0B7Syn8d77Ay-WqGK96Hw9jolRfIaAk8GEALw_wcB&gclsrc=aw.ds). I attached these braces to the inside 4 corners, make sure you get as close to the backerboard (oh, la la... foreshadowing). My thinking here is that I attach these braces to the corners and that stops the frame from being able to shift side to side. Attached everything, mission complete! Wait just a minute... it made literally no change?! Come on. I watched the frame again, closer, as I shifted pressure from side to side... realizing that the backerboard is what provides the rigidity to the frame. If the frame (which now has braces) gets attached to the backerboard, not just having the backerboard slide in the channels, the frame will no longer shift/move. I grabbed a level to make sure everything was square, and attached the braces to the backerboard. Time to test my theory... success! This thing now doesn't move. Now I can attach it to the wall and this thing isn't going anywhere. 
+
+Yes, I'm aware that on page 17 of the manual it says to mount the frame to the wall. That page clearly indicates that it's primarily to have the cabinet not tip over in the event it was being climbed/pulled, which of course -- is a safety thing. This doesn't talk about the fact that attaching the frame to the wall is also what provides the rigidity. 
+
+If I were doing this again and didn't have access to Home Depot, but did have access to a 3D printer, I'd go with this: [Corner brace for IKEA Besta cabinet](https://www.thingiverse.com/thing:3037566). Heck, assuming you bought the cabinet from IKEA and not from a 3rd party, you could try this: [OBSERVATÖR Cross-brace](https://www.ikea.com/us/en/p/observatoer-cross-brace-galvanized-87749600/) from IKEA. 
+
+While I enjoyed spending the brain cycles on this to figure out what was causing the issue, I'm glad this one is now sorted. 

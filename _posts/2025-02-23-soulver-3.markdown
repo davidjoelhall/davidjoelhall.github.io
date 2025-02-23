@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Soulver 3
+date:   2025-02-23
+categories: apps
+---
 When working with numbers... Sometimes you use a calculator. Sometimes you use a spreadsheet. In many cases, you could use something else that would be better suited for the job. Enter [Soulver 3](https://soulver.app). 
 
 - [iOS App Store](https://apps.apple.com/us/app/soulver-3/id1508732804)

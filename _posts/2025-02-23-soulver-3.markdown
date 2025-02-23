@@ -1,0 +1,11 @@
+When working with numbers... Sometimes you use a calculator. Sometimes you use a spreadsheet. In many cases, you could use something else that would be better suited for the job. Enter [Soulver 3](https://soulver.app). 
+
+- [iOS App Store](https://apps.apple.com/us/app/soulver-3/id1508732804)
+- [Mac App Store](https://apps.apple.com/us/app/soulver-3/id1508732804)
+- [Direct Download](https://soulver.app/download)
+
+I've been using Soulver for years on iPhone and Mac. Soulver 3 will replace Soulver 2 in my workflows. 
+
+Soulver 3 replaces Soulver 2 on my iPhone dock, sharing space with a new tab Safari Shortcut, Drafts, and Camera. 
+
+For nearly everything I work with numbers, I use Soulver. The only time I "promote" the task to a spreadsheet is for when I'm referring to cells or multiple sheets. 

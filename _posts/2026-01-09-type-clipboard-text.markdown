@@ -2,7 +2,7 @@
 layout: post
 title:  type clipboard as text
 date:   2026-01-09
-categories: macro
+categories: macros
 ---
 You know those forms that will not accept you pasting in something? Yeah, those ones. They're problematic.
 

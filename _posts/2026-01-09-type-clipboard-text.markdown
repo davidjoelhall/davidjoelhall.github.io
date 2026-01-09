@@ -12,4 +12,4 @@ I then went back to the form, hit the macros, and tada!
 
 If you want to do this too:
 
-![images/CleanShot 2026-01-09 at 13.53.29@2x.png]
+![macro](/images/CleanShot 2026-01-09 at 13.53.29@2x.png)

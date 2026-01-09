@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  type clipboard as ttext
+title:  type clipboard as text
 date:   2026-01-09
 categories: macro
 ---

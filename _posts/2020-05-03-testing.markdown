@@ -1,0 +1,33 @@
+---
+layout: post
+title: Advocating for Macros
+date: 2020-05-03
+categories: separated, by commas
+---
+I don't have as much experience with [Keyboard Maestro](https:/twitter.com/keyboardmaestro) as I do with [Shortcuts](https://apple.com/shortcuts), but I just took a 3-5 minute (manual) process and created a macro w/in KM that does the same thing in ~.5 seconds. Not only is this automatic now, but there is no more room for error. 
+
+What the macro does is this:
+
+- get selected item(s) from Finder
+- append path of each item in selection to a text file, "queue.txt", each path is on a separate line
+- get the enclosing folder from selected item(s) from Finder, set to a variable
+- open Terminal
+- change directory in Terminal to path of folder from above 
+- execute a bash script in Terminal
+
+How I use this day-to-day... find something in my media library that needs to be transcoded for "Direct Play" within Plex, highlight it/them, open "Transcode Selection" w/in KM... then wait for it to complete. 
+
+I was previously going through many steps: 
+
+- select items
+- open queue.txt
+- drag items from Finder to queue.txt to get the full paths into the file
+- open Terminal
+- change directory in Terminal to the appropriate location
+- drag the bash file into Terminal to execute
+
+It's the same _raw_ number of steps, but in the macro it's all previously defined and happens without my interaction within ~.5 seconds -- compared to 3-5 minutes of the manual steps which had quite a few instances where I was typing in the wrong items or dragging things incorrectly. 
+
+The macro took an hour or so over the course of 3 nights to design. Why stick with it and get it done? This is now automatic and I don't need to _think_ about the process. 
+
+It just works. 

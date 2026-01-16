@@ -1,4 +1,8 @@
 ---
+layout: post
+title:  hide settings badge on iPhone
+date:   2026-01-16
+categories: iphone
 ---
 [Mike Rockwell](https://initialcharge.net/about/) at [initialcharge.net](https://initialcharge.net/) posted [Hide the Notification Badge on the iOS Settings App](https://initialcharge.net/2025/12/settings-app-notification-badge/). 
 

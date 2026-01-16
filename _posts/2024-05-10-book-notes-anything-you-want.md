@@ -1,5 +1,5 @@
 ---
-layout: draft
+layout: post
 title:  book notes - anything you want
 date:   2024-05-10
 categories: book notes

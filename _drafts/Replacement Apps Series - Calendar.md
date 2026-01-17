@@ -1,0 +1,8 @@
+You may be looking for an app that gives a different (hopefully better) experience than the app that came with your iPhone. This will be a multipart series in what I've found to be the best-in-class for what to replace the stock apps with. One major downside to replacing the stock experience is you can't change the default app links (e.g. if you click on a link in your Messages app, it'll open Safari -- no two ways about it). 
+
+### Calendar
+The original (pre iOS 7) Calendar app was pretty good at showing you an overview of your schedule across your calendars. Apple, for whatever reason, changed this in the initial release of iOS 7. This has since changed with iOS 7.1 and now gives that same view with updated aesthetics. 
+
+The replacement that I've found that not only brought that view back originally (I used the app prior to iOS 7) and brought a lot of improvements: Fantastical. 
+
+Fantastical is whimsical in its parsing of natural language, it's cleverly designed in the way that it presents events on your calendar, and has multiple views depending on how you want to look at it. Not only is viewing your calendars easy (as a task of this nature should be), but adding events is dead simple. Having lunch with a friend at a certain time/date? Just type it out, nothing fancy, "lunch with John at In N Out at 3 tomorrow" and Fantastical will do all the heavy lifting and parse out what you actually meant. It will put "Lunch with John" in the title/subject of the event, location of "In N Out", time/date of 3pm tomorrow. ![fantastical GIF](https://www.dropbox.com/s/44vjljnojr1o9al/File%20Feb%2021%2C%2010%2058%2053%20PM.gif?dl=0) Not only does it do the parsing for you, but the parsing happens live for you as you type; it's amazing to watch happen. 

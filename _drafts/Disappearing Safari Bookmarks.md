@@ -1,0 +1,2 @@
+Came across a relatively new Apple machine today that had a strange problem... If you create a bookmark in Safari, in either the Bookmarks Menu or the Bookmarks Bar, and then quit Safari, upon relaunch, the bookmarks are gone. You'll also notice that the UI elements don't seem to update properly after creating a bookmark.
+Long story short, the problem was in the permissions of ~\Library\Preferences\Safari. The permissions weren't set to allow the user to make changes. 

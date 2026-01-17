@@ -1,0 +1,1 @@
+Trying out a layout that organizes things by category/row... The most important 3 apps of a category are outside the folder, displayed in the row... The remaining apps of the category are in the folder at the end of the row. 

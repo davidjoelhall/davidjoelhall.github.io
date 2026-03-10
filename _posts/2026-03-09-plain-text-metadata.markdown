@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Plain Text Metadata
-date:   2026-01-20
+date:   2026-03-09
 categories: plaintext
 ---
 There are situations where I need to embed a photo or have photos alongside my text (*.txt, *.md) files... think of a project where you say "Working on a cabinet that has a broken hinge." It would be nice to have a picture of the broken hinge right there... without having to open Photos, search, etc. Heck, what do you even search for, I cannot effectively search for that... sure, there is OCR which helps some... but it doesn't let me set my own description, it doesn't necessarily get the 5 Ws... (who, what, where, when, why). 

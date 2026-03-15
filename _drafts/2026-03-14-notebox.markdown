@@ -1,0 +1,74 @@
+---
+layout: draft
+title:  Notebox
+date:   2026-03-14
+categories: plaintext
+---
+# Notebox
+
+## A Love Letter to nvALT
+
+I have been a big fan of Brett Terpstra's fork of Notational Velocity, nvALT for quite some time... If you are on macOS and a user of plain text files, it was the bees' knees. I have thought about it for years ever since it was no longer really maintained for one reason or another (nvUltra was the acclaimed successor but never officially came out). 
+
+Excuse my language, but I fucking loved nvALT. It was by far the best app for what I was looking for:
+- open a folder of text/markdown files
+- have a list of all my files
+- search for a file, if it wasn't found - hit return to create it.
+
+I have been thinking about what an app would look like if I were able to recreate nvALT for iOS, using "modern" technologies on iPhone. The closest I had to that was nvNotes of probably a decade ago. 
+
+I couldn't find much online any more about nvNotes, but did find [this post on Tools and Toys](https://toolsandtoys.net/nvnotes-for-iphone/). There was another app that was similar to nvNotes, and that's Notesy. I didn't hear about it until today when I was researching about this... but it looks similar. 
+
+## The Rock
+
+2020 came and Obsidian hit the ground hard. I tried it. I have tried Obsidian more times than I care to admit. It's good on the desktop, it can definitely be on the fiddly side -- which is probably more something to be said about me more than the software... but more importantly, it never stuck for me on iPhone... where do I do a lot of note taking. In Obsidian's defense, it has gotten significantly better since [version 1.11](https://obsidian.md/changelog/2026-01-12-mobile-v1.11.4/)... 
+
+There is one thing that I could never shake: the only way to sync files to iPhone while using the "native" Obsidian app is the first party sync service: Obsidian Sync. This wouldn't be an issue for me if I didn't already have my files in Dropbox and an established workflow tied to Dropbox. Sure, could I figure out a way to rearchitect workflow and what not to adjust to this... sure. That seems like fixing the wrong problem. There are "community" plugins for other services, there's even one for Dropbox... but I felt that they were all a bit too far on the janky side to rely on. The fact that there is a first party service that you pay for compared to a community plugin that could stop working on the next app update... something just felt janky. 
+
+## Introducing
+
+So, with Claude Code, over the last couple of weeks (maybe an hour or a day or so), I built Notebox. It's primary reason for _being_ is to easily interact with my plain text files in Dropbox. You could use Notebox without Dropbox, it works with local files too... but that's only a byproduct of initial testing before I worked on the Dropbox Sync. Now, I have a purpose built notes app that does what I want (syncs a folder of plain text files with Dropbox). Much like Craig Mod has [built the accounting software he's always craved](https://craigmod.com/essays/software_bonkers/). 
+
+![note list]({{site.baseurl}}/images/Screenshot 2026-03-14 at 9.19.36 PM.jpeg]
+
+Given that it's _my_ app, I was able to do things that I couldn't realistically ask of another app... like while editing a note, you can add a picture (Library or Camera), it'll add the photo to `/attachments`, create a "sidecar" file (image.md) and embed the `![[image.md]]` in your note. This sounds complicated and you may ask why would I do this? A few reasons:
+- it's difficult to search for photos, so the sidecar gives you the ability to search for a description that you previously set or tags of the photo
+- easily embed the image and see the description
+
+This is what that feature looks like:
+
+![embedded image]({{site.baseurl}}/images/IMG_1454.jpg]
+
+## Now for the folks out there that may be asking about other software that I could have used...
+
+> Why not use DEVONthink? 
+
+This is what I used most recently and I've used it for a long time (6 years, maybe longer). I happened to get to it after their recent updates to iPhone which made the app more usable on mobile. I primarily used the app on iPhone and iPad for quite a long time (I didn't have a laptop) and it synced to a DEVONthink database from my Mac mini. 
+
+Why did I stop using it? It's a proprietary database under the hood. While the files themselves are not modified when they're imported, they have to be exported to maintain their folder hierarchy. This doesn't jive with me and has been something I worried about, database corruption, for years. 
+
+> Why not use FSnotes?
+
+It only supports iCloud. 
+
+> Why not use Obsidian? 
+
+It only supports Obsidian Sync. 
+
+> Why not use Joplin?
+
+It puts notes into a database that I have to export if I ever wanted to _leave_ (see also DEVONthink). 
+
+> Why not use Bear?
+
+Only supports iCloud Sync (which you have to pay for) and stores your data in a database that you have to export from. 
+
+> Why not use Notes?
+
+iCloud Sync, SQLite database, and no. 
+
+## Release
+
+Will I ever release this? Unlikely, but if I do, it'd probably be because it was easier to put it on the App Store than it is to rebuild the app to my iPhone on a weekly basis. 
+
+If I ever release it, I'll add a link to it on this post. 

@@ -31,7 +31,7 @@ So, with Claude Code, over the last couple of weeks (maybe an hour or a day or s
 
 ![note list](/images/Screenshot 2026-03-14 at 9.19.36 PM.jpeg)
 
-Given that it's _my_ app, I was able to do things that I couldn't realistically ask of another app... like while editing a note, you can add a picture (Library or Camera), it'll add the photo to `/attachments`, create a "sidecar" file (image.md) and embed the `![[image.md]]` in your note. This sounds complicated and you may ask why would I do this? A few reasons:
+Given that it's _my_ app, I was able to do things that I couldn't realistically ask of another app... like while editing a note, you can add a picture (Library or Camera), it'll add the photo to `/attachments`, create a "sidecar" file (`image.md`) and embed the `![[image.md]]` in your note. This sounds complicated and you may ask why would I do this? A few reasons:
 - it's difficult to search for photos, so the sidecar gives you the ability to search for a description that you previously set or tags of the photo
 - easily embed the image and see the description
 

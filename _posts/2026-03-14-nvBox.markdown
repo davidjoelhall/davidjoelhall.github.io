@@ -55,7 +55,7 @@ It only supports iCloud.
 
 > Why not use Obsidian? 
 
-It only supports Obsidian Sync. 
+For sync to mobile, it supports iCloud and Obsidian Sync, neither of which is where I store my files. 
 
 > Why not use Joplin?
 

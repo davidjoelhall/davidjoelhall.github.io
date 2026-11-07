@@ -55,7 +55,7 @@ It only supports iCloud.
 
 > Why not use Obsidian? 
 
-For sync to mobile, it supports iCloud and Obsidian Sync, neither of which is where I store my files. 
+For sync to mobile, it supports iCloud Sync and Obsidian Sync, neither of which is where I store my files. 
 
 > Why not use Joplin?
 
@@ -63,11 +63,11 @@ It puts notes into a database that I have to export if I ever wanted to _leave_ 
 
 > Why not use Bear?
 
-Only supports iCloud Sync (which you have to pay for) and stores your data in a database that you have to export from. 
+Only supports iCloud Sync and stores your data in a database that you have to export from. 
 
 > Why not use Notes?
 
-iCloud Sync, SQLite database, and no. 
+iCloud Sync, SQLite database, and no. Again, not looking to store my files in another abstracted layer. 
 
 ## Release
 
